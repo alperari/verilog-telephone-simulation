@@ -69,15 +69,11 @@ My circuit also calculates the cost of the call and sends the cost value and the
 
 6-   **S5 = COST**
 
-![image-20210222225639311](C:\Users\alper\AppData\Roaming\Typora\typora-user-images\image-20210222225639311.png)
-
-
-
-
+![a](https://user-images.githubusercontent.com/68128434/108763328-4f24f900-7562-11eb-983c-ceb831e89a70.jpg)
 
 A sample simulation and waveform from project:
 
-![image-20210222225917538](C:\Users\alper\AppData\Roaming\Typora\typora-user-images\image-20210222225917538.png)
+![b](https://user-images.githubusercontent.com/68128434/108763412-67951380-7562-11eb-9742-b9783fbd741f.jpg)
 
 
 
