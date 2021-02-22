@@ -17,9 +17,9 @@ My circuit also calculates the cost of the call and sends the cost value and the
 
 
 
-#### Inputs 
+## Inputs 
 
-###### There will be 8 inputs in circuitry: 
+#### There will be 8 inputs in circuitry: 
 
 ​	• **rst** will set your circuitry to its initial state. 
 
@@ -41,9 +41,9 @@ My circuit also calculates the cost of the call and sends the cost value and the
 
 
 
-#### Outputs 
+## Outputs 
 
-###### There will be 2 outputs in circuitry: 
+#### There will be 2 outputs in circuitry: 
 
 • **statusMsg** **(64-bit)** will be used to display the status of telephone using 8 printable ASCII character. For example, **statusMsg** output should be **“IDLE “** in its initial state. More details will be provided below. 
 
@@ -53,9 +53,9 @@ My circuit also calculates the cost of the call and sends the cost value and the
 
 
 
-#### States
+## States
 
-###### I have 6 states which are labeled as:
+#### I have 6 states which are labeled as:
 
 1-   **S0 = IDLE**
 
@@ -70,6 +70,8 @@ My circuit also calculates the cost of the call and sends the cost value and the
 6-   **S5 = COST**
 
 ![a](https://user-images.githubusercontent.com/68128434/108763328-4f24f900-7562-11eb-983c-ceb831e89a70.jpg)
+
+
 
 A sample simulation and waveform from project:
 
